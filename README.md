@@ -27,9 +27,9 @@ git clone https://github.com/openguild-labs/frame-challenges.git
 
 Go to **Participant Registration** section and register to be the workshop participants. Add the below to the list, replace any placeholder with your personal information.
 
-| Emoji | Name            | Github Username                                      | Current Occupation               |
-|-------|----------------|------------------------------------------------------|----------------------------------|
-| 🤖   | Putu Tio Lovan  | [TioLovan07](https://github.com/TioLovan07)         | Information Technology Student  |
+```
+| 🦄 | Name | Github username | Your current occupation |
+```
 
 - Step 5: `Commit` your code and push to the forked Github repository
 
@@ -94,3 +94,9 @@ OpenGuild is a builder-driven community centered around Polkadot. OpenGuild is b
 - **Website:** [OpenGuild Website](https://openguild.wtf/)
 - **Github:** [OpenGuild Labs](https://github.com/openguild-labs)
 - **Discord**: [Openguild Discord Channel](https://discord.gg/bcjMzxqtD7)
+
+## Participant Registration
+
+| Emoji | Name            | Github Username                                      | Current Occupation               |
+|-------|----------------|------------------------------------------------------|----------------------------------|
+| 🤖   | Putu Tio Lovan  | [TioLovan07](https://github.com/TioLovan07)         | Information Technology Student  |
